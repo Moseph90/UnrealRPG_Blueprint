@@ -22,6 +22,7 @@ Bugs:
 
 Cannot vault over objects when on a platform other than the ground.
 If you start a vault before an attack animation finishes, or at least until you hit the end combo notify state, you can no longer attack.
+When killing the enemy, there is an invisible hurt box belonging to the enemy that still remains afterwards.
 
 Blueprint locations:
 
