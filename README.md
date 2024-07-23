@@ -35,7 +35,7 @@ Animations:
 
 Characters/Mannequins/Animations/Manny contains some of the default animation that I used like running, jumping and landing.
 
-Characters/Pirate/Animations is where you will find all the custom animations and montages. They are all separated in different sub folders like attacks, movement etc...
+Characters/Pirate/Animations is where you will find all the custom animations and montages. The animation blueprint for the main character is also here.
 
 All of the blueprints are well commented and explain how everything connects. I didn't bother explaining the audio, but that's pretty self explanitory. It's all in the Audio folder where you'll find
 the sound cues and metasounds as well as the wav and mp3 files. This game demo is constantly being worked on so stay tuned for more updates. I am still in the early phases.
