@@ -31,6 +31,8 @@ ThirdPerson/Blueprints contains the blueprint for the main third person characte
 
 Characters/Animations/AnimNotifies contains all of the ainim notifies and notify states for the characters.
 
+UI folder contains the widget blueprints for the HUD and health systems
+
 Animations: 
 
 Characters/Mannequins/Animations/Manny contains some of the default animation that I used like running, jumping and landing.
